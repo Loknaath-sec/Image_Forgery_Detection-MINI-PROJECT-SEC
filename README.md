@@ -80,8 +80,7 @@ project/
 ## ▶️ Running Locally
 
 ```bash
-git clone https://github.com/
-<your-repo>/image-forgery-detection
+git clone https://github.com/Loknaath-sec/Image_Forgery_Detection-MINI-PROJECT-SEC.git
 cd image-forgery-detection
 pip install -r requirements.txt
 python app.py
