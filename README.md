@@ -10,7 +10,7 @@ It highlights manipulation traces such as splicing, copy-move, and image tamperi
 Upload an image and the system will automatically:
 1. Convert it to its ELA representation  
 2. Analyze it using a trained EfficientNetB0 CNN model  
-3. Predict: **Authentic** or 🔴 **Forged**  
+3. Predict: **Authentic** or **Forged**  
 4. Display confidence scores  
 5. Show the ELA visualization  
 
