@@ -115,6 +115,8 @@ https://huggingface.co/spaces/Loknaath/Image_forgery_detection
 ## 🎯 Objective
 
 To build a simple, accurate, and accessible tool that identifies digitally manipulated images using forensic techniques and deep learning.
+
 ---
+
 ## Conclusion
 This project successfully demonstrates how combining Error Level Analysis (ELA) with a Convolutional Neural Network (CNN) can effectively identify manipulated images. By exposing compression inconsistencies and analyzing them with a trained deep-learning model, the system provides accurate classification of Authentic vs Forged images. The final web application is simple, fast, and accessible, making image forgery detection easy for everyday users as well as useful for digital forensics, journalism, and academic environments.
