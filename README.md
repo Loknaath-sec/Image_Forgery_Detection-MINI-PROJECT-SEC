@@ -5,14 +5,14 @@ It highlights manipulation traces such as splicing, copy-move, and image tamperi
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Upload an image and the system will automatically:
-1. 🔧 Convert it to its ELA representation  
-2. 🧠 Analyze it using a trained EfficientNetB0 CNN model  
-3. 🟢 Predict: **Authentic** or 🔴 **Forged**  
-4. 📊 Display confidence scores  
-5. 🖥️ Show the ELA visualization  
+1. Convert it to its ELA representation  
+2. Analyze it using a trained EfficientNetB0 CNN model  
+3. Predict: **Authentic** or 🔴 **Forged**  
+4. Display confidence scores  
+5. Show the ELA visualization  
 
 This tool is deployed using **Gradio** and hosted on **Hugging Face Spaces**.
 
@@ -43,26 +43,26 @@ along with confidence scores.
 https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
 
 Includes real-world manipulated images involving:
-- ✂️ Splicing  
-- 🔁 Copy-Move  
-- 🧽 Object removal  
-- 🖼️ Image composition  
+- Splicing  
+- Copy-Move  
+- Object removal  
+- Image composition  
 
 Dataset split:
-- 🏋️ 80% Training  
-- 🧪 20% Validation  
+- 80% Training  
+- 20% Validation  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python  
-- 🧠 TensorFlow / Keras  
-- ⚙️ EfficientNetB0  
-- 🖼️ Pillow (PIL)  
-- 📦 NumPy  
-- 🌐 Gradio  
-- ☁️ Hugging Face Spaces  
+- Python  
+- TensorFlow / Keras  
+- EfficientNetB0  
+- Pillow (PIL)  
+- NumPy  
+- Gradio  
+- Hugging Face Spaces  
 
 ---
 
@@ -80,7 +80,7 @@ project/
 
 ---
 
-## ▶️ Running Locally
+## Running Locally
 
 ```bash
 git clone https://github.com/Loknaath-sec/Image_Forgery_Detection-MINI-PROJECT-SEC.git
@@ -107,11 +107,11 @@ https://huggingface.co/spaces/Loknaath/Image_forgery_detection
 
 ## 🌍 Applications
 
-- 🕵️ Digital Forensics  
-- 📰 Journalism & Fact-Checking  
-- ⚖️ Legal and Cybercrime Investigations  
-- 🎓 Academic Integrity  
-- 📱 Social Media Content Verification  
+- Digital Forensics  
+- Journalism & Fact-Checking  
+- Legal and Cybercrime Investigations  
+- Academic Integrity  
+- Social Media Content Verification  
 
 ---
 
