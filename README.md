@@ -1,4 +1,4 @@
-# 🖼️ Image Forgery Detection using ELA + CNN
+# Image Forgery Detection using ELA + CNN
 
 This project detects whether an image is **Authentic** or **Forged** using a combination of **Error Level Analysis (ELA)** 🔍 and a **Convolutional Neural Network (CNN)** 🤖.  
 It highlights manipulation traces such as splicing, copy-move, and image tampering using ELA-based forensic analysis.
