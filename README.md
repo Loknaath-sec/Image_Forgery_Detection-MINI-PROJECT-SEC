@@ -40,7 +40,7 @@ along with confidence scores.
 
 ### **CASIA 2.0 Image Tampering Detection Dataset**
 
-https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
 
 Includes real-world manipulated images involving:
 - ✂️ Splicing  
