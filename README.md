@@ -64,7 +64,7 @@ Dataset split:
 ---
 
 ## 📁 Project Structure
-
+```powershell
 project/
 │
 ├── app.py # Gradio web app
@@ -73,24 +73,26 @@ project/
 ├── model_def.py # CNN architecture
 ├── forgery_cnn_best.h5 # Trained model
 └── data/ # Dataset (optional)
-
+```
 
 ---
 
 ## ▶️ Running Locally
 
-
+```bash
 git clone https://github.com/
 <your-repo>/image-forgery-detection
 cd image-forgery-detection
 pip install -r requirements.txt
 python app.py
-
+```
 
 ## Open in browser:
-
+```arduino
 http://localhost:7860
-
+```
+## 🌐 Live Demo (Hugging Face Space)
+https://huggingface.co/spaces/Loknaath/Image_forgery_detection
 
 ---
 
